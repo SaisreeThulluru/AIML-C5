@@ -1,5 +1,5 @@
 # Multi-Agent AI Business Assistant for Intelligent Enterprise Workflow Automation
-Using Large Language Models, Multi-Agent Collaboration, and Enterprise Tool Integration
+Using Large Language Models, Multi-Agent Collaboration, and Enterprise Tool Integration.
 
 ### 1. Project Overview
 Modern enterprise operations require seamless coordination across multiple functional domains, including Human Resources (HR), Finance, Software Engineering, Email Communication, Data Analytics, and Customer Support. However, traditional single-agent conversational AI systems struggle to execute complex cross-functional workflows.
